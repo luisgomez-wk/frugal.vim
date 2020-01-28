@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.thrift setlocal filetype=thrift
+au BufNewFile,BufRead *.frugal setlocal filetype=thrift
